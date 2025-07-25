@@ -1,2 +1,2 @@
 # bme280_read
-Read temperature, humidity and barometric pressure from a connected Adafruit BME280 module
+This repository provides a small Python script to read temperature, humidity and barometric pressure over I2C from a connected (Adafruit BME280 module)[https://www.adafruit.com/product/2652]. It requires the (smbus2)[https://pypi.org/project/smbus2) Python module which can be installed from PyPI.
